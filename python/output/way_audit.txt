@@ -1,0 +1,94 @@
+#================#
+# Audit Findings #
+#================#
+
+Unique attributes: 6
+Top 6 attributes:
+	id: n=75017
+	version: n=75017
+	timestamp: n=75017
+	changeset: n=75017
+	uid: n=75017
+	user: n=75017
+
+Unique id values: 75017
+Top 10 id values:
+	4600367: n=1
+	5060108: n=1
+	5060109: n=1
+	5060110: n=1
+	5060111: n=1
+	17703999: n=1
+	17709701: n=1
+	17710094: n=1
+	17710465: n=1
+	17710672: n=1
+
+Unique version values: 55
+Top 10 version values:
+	1: n=58981
+	2: n=8440
+	3: n=3282
+	4: n=1567
+	5: n=823
+	6: n=510
+	7: n=325
+	8: n=228
+	9: n=172
+	10: n=120
+
+Unique timestamp values: 15898
+Top 10 timestamp values:
+	2021-09-13T23:07:24Z: n=1324
+	2021-09-13T23:48:29Z: n=554
+	2021-10-10T15:38:33Z: n=538
+	2021-05-17T20:09:15Z: n=432
+	2021-09-13T23:57:53Z: n=413
+	2021-08-24T22:44:37Z: n=378
+	2021-10-10T19:42:22Z: n=360
+	2021-08-27T21:00:12Z: n=357
+	2021-05-15T14:20:22Z: n=324
+	2021-05-18T16:06:31Z: n=321
+
+Unique changeset values: 12306
+Top 10 changeset values:
+	111168180: n=1324
+	15798059: n=737
+	111168688: n=554
+	112338891: n=538
+	104847207: n=432
+	111168786: n=413
+	110196573: n=378
+	112346808: n=360
+	110359089: n=357
+	104735715: n=324
+
+Unique uid values: 851
+Top 10 uid values:
+	11886220: n=19287
+	1802220: n=10691
+	307520: n=10067
+	10469997: n=3459
+	451693: n=1252
+	2063187: n=881
+	360392: n=739
+	1346422: n=661
+	1100566: n=642
+	8383202: n=584
+
+Unique user values: 851
+Top 10 user values:
+	ipple: n=19287
+	jonesydesign: n=10691
+	wolfgang8741: n=10067
+	Spails: n=3459
+	bot-mode: n=1252
+	gregcrago: n=881
+	maxerickson: n=739
+	ChrisBessert: n=661
+	YalCat: n=642
+	ksv9896: n=584
+
+Timestamp Conversion Errors: 0
+	First timestamp: 2007-12-22 20:33:09
+	Last timestamp: 2022-01-16 22:08:29

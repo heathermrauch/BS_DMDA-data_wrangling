@@ -1,0 +1,557 @@
+#================#
+# Audit Findings #
+#================#
+
+Unique attributes: 310
+Top 10 attributes:
+	highway: n=40276
+	building: n=18048
+	service: n=12202
+	surface: n=9184
+	footway: n=9065
+	name: n=8438
+	access: n=6302
+	tiger:cfcc: n=6165
+	tiger:county: n=6160
+	tiger:reviewed: n=5819
+
+Unique bicycle values: 5
+Top 5 bicycle values:
+	permissive: n=223
+	yes: n=157
+	no: n=118
+	designated: n=64
+	private: n=12
+
+Unique foot values: 5
+Top 5 foot values:
+	yes: n=617
+	designated: n=186
+	no: n=68
+	private: n=19
+	permissive: n=6
+
+Unique highway values: 26
+Top 10 highway values:
+	service: n=21302
+	footway: n=10815
+	residential: n=5722
+	tertiary: n=641
+	unclassified: n=316
+	cycleway: n=272
+	secondary: n=256
+	steps: n=239
+	path: n=220
+	track: n=149
+
+Unique lanes values: 8
+Top 8 lanes values:
+	1: n=1124
+	2: n=563
+	5: n=58
+	3: n=40
+	4: n=36
+	7: n=14
+	6: n=2
+	9: n=1
+
+Unique maxspeed values: 13
+Top 10 maxspeed values:
+	25 mph: n=264
+	35 mph: n=117
+	45 mph: n=70
+	70 mph: n=62
+	15 mph: n=27
+	55 mph: n=22
+	20 mph: n=13
+	40 mph: n=12
+	30 mph: n=9
+	10 mph: n=7
+
+Unique oneway values: 3
+Top 3 oneway values:
+	yes: n=2156
+	no: n=637
+	-1: n=5
+
+Unique ref values: 71
+Top 10 ref values:
+	I 94: n=37
+	M 96: n=29
+	US 131: n=25
+	BUS US 131: n=20
+	BS I 94: n=15
+	M 43: n=14
+	OLD BL I 94;OLD BUS US 131: n=14
+	M 89: n=13
+	OLD M 43: n=13
+	1: n=10
+
+Unique surface values: 19
+Top 10 surface values:
+	asphalt: n=4547
+	concrete: n=2599
+	paved: n=1539
+	unpaved: n=254
+	grass: n=82
+	ground: n=46
+	wood: n=32
+	dirt: n=28
+	sand: n=14
+	gravel: n=13
+
+Unique name values: 5445
+Top 10 name values:
+	Kalamazoo River Valley Trail: n=68
+	Penn Central Railroad: n=56
+	South Westnedge Avenue: n=51
+	Sprinkle Road: n=43
+	Stadium Drive: n=36
+	West Michigan Avenue: n=34
+	Portage Road: n=30
+	East Michigan Avenue: n=25
+	West Main Street: n=23
+	West Centre Avenue: n=23
+
+Unique access values: 8
+Top 8 access values:
+	private: n=5829
+	customers: n=254
+	no: n=89
+	yes: n=77
+	permissive: n=30
+	permit: n=19
+	destination: n=3
+	residents: n=1
+
+Unique tiger:cfcc values: 23
+Top 10 tiger:cfcc values:
+	A41: n=5519
+	B11: n=222
+	A74: n=129
+	A31: n=93
+	A63: n=72
+	A25: n=47
+	A15: n=21
+	A64: n=12
+	A49: n=10
+	A21: n=8
+
+Unique tiger:county values: 10
+Top 10 tiger:county values:
+	Kalamazoo, MI: n=5987
+	Calhoun, MI: n=68
+	Van Buren, MI: n=36
+	Barry, MI: n=24
+	St. Joseph, MI: n=21
+	Allegan, MI: n=17
+	Calhoun, MI:Kalamazoo, MI: n=4
+	Berrien, MI:Van Buren, MI: n=1
+	Berrien, MI:Kalamazoo, MI:Van Buren, MI: n=1
+	Calhoun, MI;Kalamazoo, MI: n=1
+
+Unique tiger:name_base values: 2667
+Top 10 tiger:name_base values:
+	Penn Central Railroad: n=90
+	Westnedge: n=54
+	Michigan: n=41
+	Main: n=32
+	Sprinkle: n=31
+	Park: n=27
+	Centre: n=27
+	Kilgore: n=26
+	Portage: n=21
+	United States Highway 131: n=20
+
+Unique tiger:name_type values: 36
+Top 10 tiger:name_type values:
+	St: n=1439
+	Ave: n=1161
+	Dr: n=834
+	Rd: n=379
+	Ln: n=307
+	Ct: n=245
+	Cir: n=82
+	Pl: n=61
+	Blvd: n=61
+	Trl: n=39
+
+Unique tiger:reviewed values: 3
+Top 3 tiger:reviewed values:
+	no: n=5796
+	aerial: n=20
+	yes: n=3
+
+Unique tiger:zip_left values: 40
+Top 10 tiger:zip_left values:
+	49009: n=565
+	49001: n=388
+	49002: n=339
+	49006: n=331
+	49024: n=331
+	49048: n=329
+	49004: n=275
+	49097: n=267
+	49008: n=254
+	49007: n=217
+
+Unique tiger:zip_right values: 40
+Top 10 tiger:zip_right values:
+	49009: n=549
+	49001: n=373
+	49002: n=324
+	49048: n=320
+	49006: n=317
+	49024: n=314
+	49004: n=271
+	49008: n=259
+	49097: n=246
+	49007: n=211
+
+Unique tiger:name_direction_prefix values: 8
+Top 8 tiger:name_direction_prefix values:
+	E: n=396
+	S: n=362
+	W: n=284
+	N: n=234
+	N;E: n=4
+	S;N: n=2
+	N; S: n=1
+	N;S: n=1
+
+Unique tiger:source values: 1
+Top 1 tiger:source values:
+	tiger_import_dch_v0.6_20070813: n=435
+
+Unique tiger:tlid values: 422
+Top 10 tiger:tlid values:
+	12233331:12233325:12233326: n=5
+	12233337:12233327: n=3
+	12233321:12233322:12233323:12233328:12233330:12233332:12250115:12256297:12256298: n=3
+	12233340:12233341:12233342:12233343:12248104:12248105: n=2
+	12251761:12251762:12256414:12227667:12227759:12227657:12247372:12247373:12247378:12251839:12247322:12247323:12247342:12247343:12227541:12251713:12227640:12227641: n=2
+	12252018:12252028:12251969:12251970:12251982:12251985:12251987:12251916:12258395:12258396:12251999: n=2
+	12233291:12250029:12226222: n=2
+	12233321:12233322:12233323:12233332:12250115:12256297:12256298: n=2
+	11429922:11435002:11429819:11429693:11429100:11429097:11429099: n=1
+	10514680:10509757:10509725:10509678:10512387:10509664:10514679: n=1
+
+Unique tiger:upload_uuid values: 5
+Top 5 tiger:upload_uuid values:
+	bulk_upload.pl-1429abda-2e4b-4944-a220-d33e611e51f2: n=417
+	bulk_upload.pl-2ff899a0-4bf2-4aa4-af12-34a602eefec5: n=6
+	bulk_upload.pl-e0b415a7-12eb-4686-9e89-930d4b3b2ecc: n=4
+	bulk_upload.pl-945eba8f-0a02-4e31-a411-ad218c2a483c: n=3
+	bulk_upload.pl-597c895f-8256-4ca1-ae20-975e36092044: n=1
+
+Unique motor_vehicle values: 4
+Top 4 motor_vehicle values:
+	no: n=303
+	private: n=115
+	yes: n=25
+	permit: n=1
+
+Unique service values: 11
+Top 10 service values:
+	driveway: n=8945
+	parking_aisle: n=2924
+	drive-through: n=161
+	spur: n=70
+	alley: n=38
+	yard: n=37
+	siding: n=15
+	emergency_access: n=5
+	crossover: n=3
+	slipway: n=3
+
+Unique power values: 6
+Top 6 power values:
+	line: n=234
+	minor_line: n=152
+	generator: n=57
+	substation: n=46
+	plant: n=5
+	portal: n=3
+
+Unique footway values: 2
+Top 2 footway values:
+	sidewalk: n=6173
+	crossing: n=2892
+
+Unique covered values: 2
+Top 2 covered values:
+	no: n=381
+	yes: n=70
+
+Unique source values: 39
+Top 10 source values:
+	aerial imagery: n=446
+	microsoft/BuildingFootprints: n=236
+	Bing: n=180
+	TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/): n=45
+	survey: n=34
+	county_import_v0.1_20080508235446: n=19
+	digitalglobe: n=16
+	TIGER 2012: n=13
+	bing imagery: n=11
+	microsoft/BuildingFootprints;local knowledge: n=6
+
+Unique addr:housenumber values: 529
+Top 10 addr:housenumber values:
+	300: n=4
+	7335: n=4
+	555: n=3
+	1000: n=3
+	501: n=3
+	507: n=3
+	403: n=3
+	3295: n=3
+	606: n=2
+	315: n=2
+
+Unique addr:street values: 210
+Top 10 addr:street values:
+	South Westnedge Avenue: n=47
+	West Main Street: n=37
+	Sussex Street: n=31
+	West Michigan Avenue: n=28
+	Higley Circle West: n=23
+	Higley Circle East: n=22
+	Ashford Trail: n=22
+	Stadium Drive: n=18
+	Euclid Avenue: n=18
+	West Street: n=18
+
+Unique addr:city values: 16
+Top 10 addr:city values:
+	Kalamazoo: n=317
+	Portage: n=174
+	Galesburg: n=13
+	Augusta: n=8
+	Vicksburg: n=8
+	Scotts: n=6
+	Parchment: n=4
+	Schoolcraft: n=4
+	Kalamazoo Township: n=3
+	Richland: n=3
+
+Unique natural values: 11
+Top 10 natural values:
+	sand: n=718
+	water: n=694
+	wood: n=205
+	tree_row: n=179
+	wetland: n=148
+	grassland: n=23
+	scrub: n=13
+	beach: n=10
+	yes: n=6
+	rock: n=5
+
+Unique layer values: 5
+Top 5 layer values:
+	1: n=342
+	-1: n=92
+	2: n=25
+	0: n=3
+	3: n=2
+
+Unique water values: 10
+Top 10 water values:
+	pond: n=293
+	river: n=71
+	lake: n=67
+	basin: n=38
+	wastewater: n=20
+	reservoir: n=8
+	stream: n=7
+	fountain: n=1
+	oxbow: n=1
+	canal: n=1
+
+Unique amenity values: 47
+Top 10 amenity values:
+	parking_space: n=3499
+	parking: n=1031
+	school: n=82
+	restaurant: n=74
+	fast_food: n=70
+	place_of_worship: n=55
+	shelter: n=39
+	bank: n=33
+	bicycle_parking: n=15
+	fuel: n=15
+
+Unique addr:postcode values: 23
+Top 10 addr:postcode values:
+	49006: n=93
+	49024: n=79
+	49008: n=72
+	49002: n=66
+	49009: n=57
+	49007: n=28
+	49001: n=22
+	49048: n=14
+	49053: n=11
+	49004: n=9
+
+Unique addr:state values: 2
+Top 2 addr:state values:
+	MI: n=633
+	Michigan: n=2
+
+Unique landuse values: 24
+Top 10 landuse values:
+	grass: n=2669
+	farmland: n=722
+	residential: n=80
+	greenhouse_horticulture: n=57
+	cemetery: n=48
+	meadow: n=48
+	yes: n=36
+	farmyard: n=36
+	orchard: n=34
+	flowerbed: n=34
+
+Unique building values: 42
+Top 10 building values:
+	house: n=9228
+	yes: n=5145
+	garage: n=632
+	apartments: n=615
+	residential: n=608
+	shed: n=500
+	roof: n=280
+	retail: n=241
+	greenhouse: n=171
+	static_caravan: n=87
+
+Unique leisure values: 23
+Top 10 leisure values:
+	pitch: n=579
+	swimming_pool: n=328
+	garden: n=243
+	playground: n=151
+	park: n=98
+	bleachers: n=59
+	golf_course: n=21
+	sports_centre: n=15
+	track: n=8
+	stadium: n=5
+
+Unique sport values: 32
+Top 10 sport values:
+	tennis: n=173
+	baseball: n=159
+	basketball: n=77
+	soccer: n=69
+	golf: n=53
+	american_football: n=17
+	volleyball: n=12
+	running: n=7
+	swimming: n=3
+	hockey: n=3
+
+Unique barrier values: 8
+Top 8 barrier values:
+	fence: n=882
+	wall: n=73
+	kerb: n=24
+	gate: n=15
+	hedge: n=4
+	handrail: n=4
+	retaining_wall: n=3
+	guard_rail: n=2
+
+Unique building:levels values: 8
+Top 8 building:levels values:
+	1: n=1063
+	2: n=867
+	3: n=61
+	4: n=12
+	6: n=4
+	5: n=4
+	7: n=2
+	12: n=1
+
+Unique parking values: 6
+Top 6 parking values:
+	surface: n=2800
+	carports: n=30
+	multi-storey: n=10
+	lane: n=2
+	garage_boxes: n=2
+	carportss3: n=1
+
+Unique roof:shape values: 11
+Top 10 roof:shape values:
+	gabled: n=1437
+	hipped: n=191
+	gambrel: n=90
+	flat: n=70
+	dome: n=25
+	half-hipped: n=10
+	pyramidal: n=7
+	many: n=1
+	round: n=1
+	skillion: n=1
+
+Unique capacity values: 21
+Top 10 capacity values:
+	1: n=3491
+	12: n=1
+	22: n=1
+	63: n=1
+	17: n=1
+	38: n=1
+	47: n=1
+	2: n=1
+	21: n=1
+	49: n=1
+
+Unique roof:colour values: 1116
+Top 10 roof:colour values:
+	grey: n=280
+	#b9b5b4: n=148
+	#aaa8a9: n=48
+	#a09798: n=43
+	#d6d0cc: n=33
+	#7c808c: n=25
+	#c6c0c0: n=23
+	#d0cecf: n=20
+	#b7abab: n=20
+	white: n=19
+
+Unique golf values: 11
+Top 10 golf values:
+	bunker: n=675
+	tee: n=612
+	green: n=266
+	fairway: n=244
+	hole: n=166
+	cartpath: n=131
+	rough: n=88
+	path: n=34
+	water_hazard: n=17
+	lateral_water_hazard: n=16
+
+Unique obstacle:wheelchair values: 1
+Top 1 obstacle:wheelchair values:
+	no: n=825
+
+Unique crossing values: 3
+Top 3 crossing values:
+	unmarked: n=1697
+	marked: n=1094
+	uncontrolled: n=1
+
+Counties not equal to Kalamazoo
+{'Allegan, MI',
+ 'Barry, MI',
+ 'Berrien, MI:Kalamazoo, MI:Van Buren, MI',
+ 'Berrien, MI:Van Buren, MI',
+ 'Calhoun, MI',
+ 'Calhoun, MI:Kalamazoo, MI',
+ 'Calhoun, MI;Kalamazoo, MI',
+ 'St. Joseph, MI',
+ 'Van Buren, MI'}

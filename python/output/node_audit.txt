@@ -1,0 +1,132 @@
+#================#
+# Audit Findings #
+#================#
+
+Unique attributes: 8
+Top 8 attributes:
+	id: n=627071
+	lat: n=627071
+	lon: n=627071
+	version: n=627071
+	timestamp: n=627071
+	changeset: n=627071
+	uid: n=627071
+	user: n=627071
+
+Unique id values: 627071
+Top 10 id values:
+	27421008: n=1
+	27421104: n=1
+	27421106: n=1
+	27421108: n=1
+	27421110: n=1
+	27421112: n=1
+	27421114: n=1
+	27421116: n=1
+	27421118: n=1
+	27421120: n=1
+
+Unique lat values: 531963
+Top 10 lat values:
+	42.1998750: n=11
+	42.2727515: n=11
+	42.3327350: n=10
+	42.3911080: n=10
+	42.1194358: n=10
+	42.2268174: n=9
+	42.2576272: n=9
+	42.1676241: n=9
+	42.1214550: n=8
+	42.2861890: n=8
+
+Unique lon values: 538117
+Top 10 lon values:
+	-85.5911355: n=18
+	-85.6277311: n=17
+	-85.7112670: n=13
+	-85.6264090: n=12
+	-85.6375869: n=10
+	-85.5881742: n=10
+	-85.6375104: n=9
+	-85.5874001: n=9
+	-85.5876357: n=9
+	-85.6181217: n=8
+
+Unique version values: 13
+Top 10 version values:
+	1: n=543502
+	2: n=63984
+	3: n=15772
+	4: n=3063
+	5: n=539
+	6: n=146
+	7: n=30
+	8: n=18
+	9: n=8
+	11: n=3
+
+Unique timestamp values: 23009
+Top 10 timestamp values:
+	2021-03-08T02:22:14Z: n=5413
+	2021-08-27T21:00:12Z: n=3337
+	2021-08-26T22:41:17Z: n=3267
+	2020-12-31T01:11:20Z: n=2542
+	2021-08-24T22:44:37Z: n=2492
+	2020-12-30T23:56:32Z: n=2290
+	2021-01-10T21:43:17Z: n=2119
+	2021-01-10T22:12:03Z: n=2114
+	2021-09-13T23:07:24Z: n=2015
+	2021-01-10T22:48:58Z: n=1918
+
+Unique changeset values: 13867
+Top 10 changeset values:
+	2092296: n=18368
+	3459793: n=12932
+	100598274: n=5413
+	110359089: n=3337
+	110309822: n=3267
+	96696748: n=2542
+	110196573: n=2492
+	96695537: n=2290
+	58478213: n=2243
+	97265013: n=2119
+
+Unique uid values: 888
+Top 10 uid values:
+	11886220: n=140300
+	1802220: n=108975
+	10469997: n=36983
+	307520: n=35180
+	147510: n=33134
+	11396838: n=18435
+	8383202: n=11746
+	12766018: n=11283
+	2063187: n=8765
+	11035594: n=8569
+
+Unique user values: 888
+Top 10 user values:
+	ipple: n=140300
+	jonesydesign: n=108975
+	Spails: n=36983
+	wolfgang8741: n=35180
+	woodpeck_fixbot: n=33134
+	Denomyc: n=18435
+	ksv9896: n=11746
+	LaDoo822: n=11283
+	gregcrago: n=8765
+	cbooth091: n=8569
+
+Latitude Bounds: 42.0697000 to 42.4224000
+Number of out-of-bounds values: 4195
+	Min out-of-bounds: 41.7384592
+	Max out-of-bounds: 42.5086938
+
+Longitude Bounds: -85.7661000 to -85.2937000
+Number of out-of-bounds values: 3713
+	Min out-of-bounds: -86.2912076
+	Max out-of-bounds: -84.9652565
+
+Timestamp Conversion Errors: 0
+	First timestamp: 2008-06-02 03:16:50
+	Last timestamp: 2022-01-16 07:25:29

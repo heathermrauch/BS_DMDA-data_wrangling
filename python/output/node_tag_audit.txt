@@ -1,0 +1,137 @@
+#================#
+# Audit Findings #
+#================#
+
+Unique attributes: 236
+Top 10 attributes:
+	highway: n=5612
+	natural: n=4358
+	power: n=3480
+	crossing: n=3192
+	denotation: n=1039
+	name: n=798
+	noexit: n=680
+	barrier: n=679
+	amenity: n=631
+	entrance: n=551
+
+Unique highway values: 12
+Top 10 highway values:
+	crossing: n=4392
+	turning_circle: n=620
+	traffic_signals: n=175
+	stop: n=126
+	turning_loop: n=126
+	street_lamp: n=106
+	motorway_junction: n=39
+	bus_stop: n=14
+	give_way: n=11
+	mini_roundabout: n=1
+
+Unique name values: 631
+Top 10 name values:
+	Speedway: n=27
+	Subway: n=17
+	Marathon: n=16
+	Shell: n=13
+	BP: n=8
+	Citgo: n=7
+	PNC Bank: n=6
+	Little Caesars: n=6
+	Kalamazoo: n=5
+	Jimmy John's: n=5
+
+Unique power values: 8
+Top 8 power values:
+	pole: n=1723
+	tower: n=1645
+	portal: n=43
+	transformer: n=22
+	generator: n=21
+	switch: n=13
+	insulator: n=12
+	connection: n=1
+
+Unique crossing values: 6
+Top 6 crossing values:
+	unmarked: n=1851
+	marked: n=1273
+	traffic_signals: n=40
+	zebra: n=24
+	uncontrolled: n=3
+	unmarked;marked: n=1
+
+Unique noexit values: 1
+Top 1 noexit values:
+	yes: n=680
+
+Unique barrier values: 11
+Top 10 barrier values:
+	gate: n=505
+	block: n=72
+	kerb: n=61
+	yes: n=17
+	lift_gate: n=13
+	bollard: n=6
+	cycle_barrier: n=1
+	Fence: n=1
+	swing_gate: n=1
+	turnstile: n=1
+
+Unique access values: 7
+Top 7 access values:
+	private: n=508
+	yes: n=15
+	permit: n=2
+	permissive: n=1
+	public: n=1
+	customers: n=1
+	residents: n=1
+
+Unique amenity values: 52
+Top 10 amenity values:
+	bench: n=106
+	fuel: n=71
+	restaurant: n=63
+	fast_food: n=62
+	school: n=43
+	parking: n=25
+	toilets: n=24
+	waste_disposal: n=24
+	place_of_worship: n=22
+	cafe: n=18
+
+Unique design values: 7
+Top 7 design values:
+	h-frame: n=140
+	monopolar: n=113
+	asymmetric: n=73
+	three-level: n=62
+	triangle: n=37
+	flag: n=18
+	lattice: n=1
+
+Unique entrance values: 4
+Top 4 entrance values:
+	home: n=481
+	yes: n=61
+	main: n=6
+	staircase: n=3
+
+Unique natural values: 4
+Top 4 natural values:
+	tree: n=4290
+	shrub: n=66
+	lake: n=1
+	wood: n=1
+
+Unique denotation values: 5
+Top 5 denotation values:
+	decoration: n=837
+	urban: n=122
+	avenue: n=56
+	street: n=23
+	single: n=1
+
+Cities not within Kalamazoo County
+{'Mall Drive', 'scotts'}
